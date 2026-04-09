@@ -9,7 +9,7 @@ Turn your resume into an AI-readable knowledge base for coding agents.
 ## 🎬 Demo
 
 ```bash
-ai-profile pdf resume.pdf
+ln2md pdf resume.pdf
 ```
 
 ```text
