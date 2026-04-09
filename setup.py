@@ -26,7 +26,7 @@ setup(
     author="ln2md maintainers",
     author_email="maintainers@example.com",
     license="MIT",
-    url="https://github.com/your-org/ln2md",
+    url="https://github.com/TM-Deadleaf/ln2md",
     python_requires=">=3.9",
     packages=find_packages(include=["ln2md", "ln2md.*"]),
     install_requires=read_requirements(),
