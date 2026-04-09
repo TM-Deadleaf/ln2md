@@ -39,9 +39,9 @@ dependencies = [
 ln2md = "ln2md.cli:run"
 
 [project.urls]
-Homepage = "https://github.com/your-org/ln2md"
-Repository = "https://github.com/your-org/ln2md"
-Issues = "https://github.com/your-org/ln2md/issues"
+Homepage = "https://github.com/TM-Deadleaf/ln2md"
+Repository = "https://github.com/TM-Deadleaf/ln2md"
+Issues = "https://github.com/TM-Deadleaf/ln2mdissues"
 
 [tool.setuptools]
 include-package-data = false
