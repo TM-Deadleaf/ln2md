@@ -19,7 +19,7 @@ def read_readme() -> str:
 
 setup(
     name="ln2md",
-    version="0.1.0",
+    version="0.1.1",
     description="CLI to convert developer resumes into AI-agent-readable knowledge profiles.",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
