@@ -141,5 +141,4 @@ If you are adding fields, update the compatibility schema and validator in the s
 
 ## 📄 License
 
-MIT (recommended).  
-If you have a preferred license, add a `LICENSE` file and update this section.
+MIT License
